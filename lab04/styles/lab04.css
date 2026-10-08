@@ -78,6 +78,7 @@ ul { list-style-type : square; }
 table, th, td {
     border: 1px solid black;
     
+    
 }
 
 .row{
@@ -88,6 +89,10 @@ table, th, td {
 
 #hyperlinks{
     color:rgb(0,128,128);
+}
+
+a[href] {
+    color: black;
 }
 
 #images {
